@@ -1,6 +1,6 @@
 # Crypto-Analysis
 
-# Libraries Used
+# Libraries Used For the Analysis done
 1. Pandas
 2. Matplotlib.pyplot
 3. Numpy
